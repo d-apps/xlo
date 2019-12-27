@@ -1,0 +1,2 @@
+enum OrderBy {DATE, PRICE}
+
